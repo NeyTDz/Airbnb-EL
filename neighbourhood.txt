@@ -1,0 +1,38 @@
+0,Sydney
+1,Waverley
+2,Randwick
+3,Warringah
+4,Manly
+5,Woollahra
+6,North Sydney
+7,Pittwater
+8,Marrickville
+9,Leichhardt
+10,Rockdale
+11,Sutherland Shire
+12,Botany Bay
+13,Ryde
+14,Mosman
+15,Parramatta
+16,Willoughby
+17,Canada Bay
+18,Hornsby
+19,Auburn
+20,Ku-Ring-Gai
+21,Lane Cove
+22,Canterbury
+23,The Hills Shire
+24,Bankstown
+25,Ashfield
+26,Blacktown
+27,Burwood
+28,Penrith
+29,City Of Kogarah
+30,Hurstville
+31,Strathfield
+32,Liverpool
+33,Campbelltown
+34,Holroyd
+35,Fairfield
+36,Camden
+37,Hunters Hill
